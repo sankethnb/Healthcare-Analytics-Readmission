@@ -1,13 +1,6 @@
-__Executive Summary__
+__Abstract:__
+This project focuses on predicting whether a diabetic patient will be readmitted after undergoing different doses of medications, and if yes within how many days. We are also trying to find people having similar characteristics in-terms of insulin level and many more.
 
-Diabetes is a medical condition that is caused due to insufficient production and secretion of insulin from the pancreas in case of Type-1 diabetes and defective response of insulin Type-2 diabetes.  Diabetes is one of the most prevalent medical conditions in people today
-Hospital readmission for diabetic patients is a major concern in the United States. Over $250 million dollars was spent on treatment of readmitted diabetic inpatients in 2011 alone. Diabetes is chronic and does not have any specific cure. 
 
-__Objective:-__
-Hospital readmission rates for certain conditions are now considered an indicator of hospital quality, and also affect the cost of care adversely. Hospital readmissions of diabetic patients are expensive as hospitals face penalties if their readmission rate is higher than expected and reflects the inadequacies in health care system. For these reasons, it is important for the hospitals to improve focus on reducing readmission rates. Identify the key factors that influence readmission for diabetes and to predict the probability of patient readmission. 
-
-__Approach:-__
-The dataset chosen is that available on the UCI website which contains the patient data for the past 10 years for 130 hospitals. The code has been written in Python using different libraries like scikit-learn, seaborn, matplotlib etc. Different machine learning techniques for classification and regression like Logistic regression, Random forest etc have been used to achieve the objective.
-
-__Keywords:__
-Machine Learning, Python, scikit-learn, EDA, Healthcare
+__Project Summary:__
+More than 100 million people in the United States have diabetes or prediabetes [Source Link]. We are working in the health-care space to support our hypothesis that different medication doses impact individuals having Diabetes in a different fashion. People have limited knowledge regarding Diabetic treatments and possibilities of readmission. It’s not necessary that each medication impacts all individuals in the same way and the chances of readmission provide support whether the dose of medication for that individual was appropriate or not. It cannot be assured that diabetic conditions won’t disappear once patients are provided with medication and their current diabetic conditions start to subside. This uncertainty may even worsen the patient’s conditions in the long run. There are many factors affecting the condition of a diabetic patient, such as Age, Ethnicity, number of days admitted in the hospital, number and different kind of medications, admission type(Emergency, Elective), International classification of diseases (ICD) [More information here] etc. Hence, the main objective of this project is to identify the factors contributing to the readmission of diabetic patients. The main accomplishment would be the development of a predictive model which will predict the chances of rehospitalization of a diabetic patient based on above mentioned factors. The prediction of recurrence of diabetes can help the patients to take active measures in order to control their diabetic conditions. This will cater to the improvement of health conditions around the world. Goal: To obtain diabetic patient records from different US hospitals
