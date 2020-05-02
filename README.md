@@ -1,4 +1,4 @@
-***Executive Summary***
+__Executive Summary__
 
 Diabetes is a medical condition that is caused due to insufficient production and secretion of insulin from the pancreas in case of Type-1 diabetes and defective response of insulin Type-2 diabetes.  Diabetes is one of the most prevalent medical conditions in people today
 Hospital readmission for diabetic patients is a major concern in the United States. Over $250 million dollars was spent on treatment of readmitted diabetic inpatients in 2011 alone. Diabetes is chronic and does not have any specific cure. 
